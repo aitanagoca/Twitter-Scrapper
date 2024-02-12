@@ -12,13 +12,15 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 
 ## (For group mates) - How to execute
 
-1. 2. Log in to AWS Academy (your account) and press "Start Lab".
+1. Log in to AWS Academy (your account) and press "Start Lab".
 
 2. Be sure that you have created the bucket as indicated in the statement (lsds2024.lab1.output.uxxxxxx) and that when creating it you have activated "ACLs enabled" and the option to make the bucket public.
 
 3. Terminal: aws configure (introduce the two first credentials).
 
 4. Terminal: aws configure set aws_session_token < (your) aws_session_token >
+
+(!! Make sure at this point that you have the tweets tar file downloaded (you can get it from the location given in the statement) and it is in the lab1 folder !! )
 
 5. Terminal: brew install openjdk@11 (only the first time!!)
 
