@@ -1,4 +1,4 @@
-# LSDS2022-seed
+# Twitter Scrapper
 
 ## Group Information 
 
