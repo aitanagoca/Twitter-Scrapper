@@ -55,7 +55,7 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         Español:  tweets
         English:  tweets
 
-### Execution times
+### Execution times:
 
     Aitana
         Català: 133505 ms
