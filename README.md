@@ -51,9 +51,9 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         English: 446601 tweets
 
     Arnau
-        Català:  tweets
-        Español:  tweets
-        English:  tweets
+        Català:  4583 tweets
+        Español:  509433 tweets
+        English: 446601 tweets
 
 ### Execution times:
 
@@ -68,8 +68,8 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         English: 133520 ms
 
     Arnau
-        Català:  ms
-        Español:  ms
-        English:  ms
+        Català:  403846 ms
+        Español:  431285 ms
+        English:  439621 ms
 
 --> We didn't run into any problems calculating how long each run takes to perform the filtering.
