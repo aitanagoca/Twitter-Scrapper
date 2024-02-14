@@ -46,9 +46,9 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         English: 446601 tweets
     
     Jordi
-        Català:  tweets
-        Español:  tweets
-        English:  tweets
+        Català:  4583 tweets
+        Español:  509433 tweets
+        English: 446601 tweets
 
     Arnau
         Català:  tweets
@@ -63,9 +63,9 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         English: 149361 ms
 
     Jordi
-        Català:  ms
-        Español:  ms
-        English:  ms
+        Català:  99879 ms
+        Español:  158895 ms
+        English: 133520 ms
 
     Arnau
         Català:  ms
