@@ -81,9 +81,8 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         Memory RAM: 32 GB 4800 MHz DDR5
 
     Arnau
-        Català:  403846 ms
-        Español:  431285 ms
-        English:  439621 ms
+        CPU:
+        Memory RAM:
 
 As it can ben seen, the time unit used in the execution times is milliseconds (ms).
 
