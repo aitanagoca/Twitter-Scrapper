@@ -76,7 +76,7 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         Español:  431285 ms
         English:  439621 ms
 
-### Hardware (CPU - Memory RAM)
+### Hardware (CPU - Memory RAM):
     Aitana
         CPU: 1.7 GHz Intel Core i7 of 4 cores
         Memory RAM: 16 GB 2133 MHz LPDDR3
