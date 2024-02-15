@@ -72,4 +72,19 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         Español:  431285 ms
         English:  439621 ms
 
---> We didn't run into any problems calculating how long each run takes to perform the filtering.
+### Hardware (CPU - Memory RAM)
+    Aitana
+        CPU: 1.7 GHz Intel Core i7 of 4 cores
+        Memory RAM: 16 GB 2133 MHz LPDDR3
+    Jordi
+        CPU: AMD Ryzen 7 6800H with Radeon Graphics 3.20 GHz
+        Memory RAM: 32 GB 4800 MHz DDR5
+
+    Arnau
+        Català:  403846 ms
+        Español:  431285 ms
+        English:  439621 ms
+
+As it can ben seen, the time unit used in the execution times is milliseconds (ms).
+
+Observing our results, you can see that there were no issues encountered during the calculation process for determining the execution times of the filtering tasks in different languages for each member of the group.
