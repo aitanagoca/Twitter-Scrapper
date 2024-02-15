@@ -38,6 +38,8 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 
 -> Example: java -cp target/lab1-1.0-SNAPSHOT.jar edu.upf.TwitterFilter < en > < fileEN > < lsds2024.lab1.output.u186651 > < TwitterEurovision2018.tar >
 
+** Profile used: "default". **
+
 ## Benchmark
 
 ### Number of output tweets:
