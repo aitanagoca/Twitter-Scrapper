@@ -85,8 +85,8 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
         Memory RAM: 32 GB 4800 MHz DDR5
 
     Arnau
-        CPU:
-        Memory RAM:
+        CPU: AMD Ryzen 7 5700u 4.3 GHz
+        Memory RAM: 16 GB 3200 MHz DDR4
 
 As it can ben seen, the time unit used in the execution times is milliseconds (ms).
 
