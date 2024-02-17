@@ -91,3 +91,9 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 As it can ben seen, the time unit used in the execution times is milliseconds (ms).
 
 Observing our results, you can see that there were no issues encountered during the calculation process for determining the execution times of the filtering tasks in different languages for each member of the group.
+
+## Output
+
+- Example extract fileEN:
+
+<img width="1440" alt="Captura de pantalla 2024-02-17 a les 11 34 00" src="https://github.com/aitanagoca/Twitter-Scrapper/assets/92036724/cf577bd3-e1f2-4545-b445-30fc4b5ab95f">
