@@ -20,7 +20,9 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 
 4. Terminal: aws configure set aws_session_token < (your) aws_session_token >
 
-(!! Make sure at this point that you have the tweets tar file downloaded (you can get it from the location given in the statement and it is in the lab1 folder !!)
+(!! Make sure that you have the tweets tar file downloaded - you can get it from the location given in the statement - and it is in the lab1 folder !!)
+
+-> .tar source - public s3 path: s3://lsds2022/twitter-eurovision-2018.tar
 
 5. Terminal: brew install openjdk@11 (only the first time!!)
 
@@ -39,8 +41,6 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 -> Example: java -cp target/lab1-1.0-SNAPSHOT.jar edu.upf.TwitterFilter < en > < fileEN > < lsds2024.lab1.output.u186651 > < TwitterEurovision2018.tar >
 
 ** Profile used: "default". **
-
-.tar source - public s3 path: s3://lsds2022/twitter-eurovision-2018.tar
 
 ## Benchmark
 
