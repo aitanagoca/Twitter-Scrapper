@@ -40,7 +40,7 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 
 ** Profile used: "default". **
 
-.tar source - public s3 path: s3://lsds2022/twitter-eurovision-2018.tar.gz.
+.tar source - public s3 path: s3://lsds2022/twitter-eurovision-2018.tar
 
 ## Benchmark
 
