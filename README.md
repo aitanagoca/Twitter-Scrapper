@@ -20,7 +20,7 @@ Arnau Royo (U172499, Bucket: lsds2024.lab1.output.u172499)
 
 4. Terminal: aws configure set aws_session_token < (your) aws_session_token >
 
-(!! Make sure at this point that you have the tweets tar file downloaded (you can get it from the location given in the statement) and it is in the lab1 folder !!)
+(!! Make sure at this point that you have the tweets tar file downloaded (you can get it from the location given in the statement and it is in the lab1 folder !!)
 
 5. Terminal: brew install openjdk@11 (only the first time!!)
 
