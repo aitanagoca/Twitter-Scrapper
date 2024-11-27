@@ -1,4 +1,4 @@
-# Twitter Scrapper
+# Twitter Scraper
 
 (For better viewing, you can visit: https://github.com/aitanagoca/Twitter-Scrapper)
 
