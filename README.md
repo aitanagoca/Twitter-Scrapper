@@ -1,8 +1,10 @@
 # Twitter Scrapper
 
+(For better viewing, you can visit: https://github.com/aitanagoca/Twitter-Scrapper)
+
 ## Group Information 
 
-Group: (P102, grup 05)
+👥 Group: (P102, grup 05)
 
 Aitana González (U186651, Bucket: lsds2024.lab1.output.u186651)
 
